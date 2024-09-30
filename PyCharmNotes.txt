@@ -1,0 +1,10 @@
+PyCharm / Python NOTES
+
+
+--------------------------------------------------------------------
+Converting a Jupyter Notebook 'ipynb'to a Python 'py' file
+
+use commnad:
+
+    Jupyter nbconvert --to script MyCommons.ipynb   
+--------------------------------------------------------------------
